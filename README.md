@@ -1,4 +1,4 @@
-# Chat Application
+# Chat Application (March 01 2015 - March 22 2015)
 
 <b>Project Idea & Objective:</b>
 The idea behind the project is to create an application that can talk to each other(chat) in the same computer or different computers on the same network.</br>
